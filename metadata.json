@@ -1,0 +1,6 @@
+{
+  "name": "Nexus CRM",
+  "description": "A complete, production-grade enterprise CRM application with dynamic sales dashboards, customer management, lead conversion tracking, tasks, and sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
